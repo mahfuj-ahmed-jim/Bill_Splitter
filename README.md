@@ -19,7 +19,7 @@ An application that will allow users to track, manage, and split the bill betwee
 - Firebase
 
 
-## SScreenshot
+## Screenshots
 
 <img width="228" alt="1" src="https://user-images.githubusercontent.com/76824955/208351593-3ae8f996-42e3-4413-8e0b-690e582559d2.png">
 <img width="226" alt="2" src="https://user-images.githubusercontent.com/76824955/208351595-b2dd5576-f0c4-4d8d-86b9-30f38d126424.png">
